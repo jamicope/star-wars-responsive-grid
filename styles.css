@@ -1,0 +1,52 @@
+header {
+    background-color: orange;
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 0;
+    height: 110px;
+}
+
+header div h1 {
+    margin-bottom: 0;
+}
+
+header div h5 {
+    margin-top: 0;
+    padding-bottom: 10px;
+}
+
+main {
+    padding-top: 50px;
+}
+
+main .row {
+    margin-bottom: 20px;
+}
+
+main div .col-4 {
+    border: 1px solid lightgray;
+}
+
+main div .card {
+    width: 100%;
+}
+
+main div .card-name {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+main div .character-image {
+    width: 100%;
+}
+
+main div h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+main div p {
+    margin-top: 0;
+}
